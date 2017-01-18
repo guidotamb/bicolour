@@ -161,6 +161,7 @@ public class GameScript : MonoBehaviour {
 
 	public void gameOver(){
 		gameOverObject.SetActive (true);
+		pauseObject.SetActive (false);
 		int best = PlayerPrefs.GetInt (gameRecord, 0);
 		if (points >= best) {
 			flash (rgba(76, 175, 80));
@@ -180,6 +181,7 @@ public class GameScript : MonoBehaviour {
 
 	public void restart(){
 		clock.start ();
+		pauseObject.SetActive (true);
 		inGame = true;
 		finish ();
 	}

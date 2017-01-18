@@ -30,10 +30,10 @@ public class ClockScript : MonoBehaviour {
 				game.gameOver ();
 				seconds = initSeconds;
 				progress.fillAmount = 1;
-				ptsText.text = ((int) seconds).ToString();
+				ptsText.text = seconds.ToString("F1");
 			} else {
 				seconds -= Time.deltaTime;
-				ptsText.text = ((int) seconds).ToString();
+				ptsText.text = seconds.ToString("F1");
 				if(seconds / initSeconds < 0){
 					progress.fillAmount = 0;	
 				} else {

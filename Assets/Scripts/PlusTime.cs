@@ -18,8 +18,7 @@ public class PlusTime : MonoBehaviour {
 
 	public void doAddPoints(float time){
 		text = gameObject.GetComponent<Text> ();
-		text.text = "+" + time.ToString("F1");
-		Debug.Log("show added time");
+		text.text = "+" + time.ToString("F1") + "''";
 		InvokeRepeating ("effect", 0, 0.001f);
 	}
 

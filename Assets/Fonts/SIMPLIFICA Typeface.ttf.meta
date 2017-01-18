@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5417faa1eda3146c38d8bb88086bca51
+timeCreated: 1484620239
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Simplifica
+  fontNames:
+  - Simplifica
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
