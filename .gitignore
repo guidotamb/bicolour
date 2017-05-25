@@ -1,2 +1,5 @@
 .DS_Store
 user.keystore
+Library/*
+*.apk
+*.app

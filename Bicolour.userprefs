@@ -1,11 +1,22 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ClockScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameScript.cs">
     <Files>
       <File FileName="Assets/Scripts/CircleScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/GameScript.cs" Line="128" Column="27" />
-      <File FileName="Assets/Scripts/PlusTime.cs" Line="21" Column="48" />
-      <File FileName="Assets/Scripts/ClockScript.cs" Line="40" Column="41" />
+      <File FileName="Assets/Scripts/GameScript.cs" Line="144" Column="4" />
+      <File FileName="Assets/Scripts/StartScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OverriddenNetworkDiscovery.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MultiplayerGameScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClockScript.cs" Line="1" Column="1" />
+      <File FileName="../Downloads/Invaders/Assets/InvadersGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AlphaBlendingText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFix.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlusTime.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/UnityAdsExample.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/ClockMultiplayerScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Network/NetClient.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Network/NetServer.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

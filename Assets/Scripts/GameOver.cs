@@ -22,14 +22,13 @@ public class GameOver : MonoBehaviour {
 
 	public void setPoints(int points){
 		int record = PlayerPrefs.GetInt (gameRecord, 0);
+		text.text = "SCORE: " + points;
+		text.color = rgba (158, 158, 158, 1);
 		if (points > record) {
 			PlayerPrefs.SetInt (gameRecord, points);
 			recordText.text = "BEST: " + points;
 			recordText.color = rgba (76, 175, 80, 1);
-			text.text = "";
 		} else {
-			text.text = "SCORE: " + points;
-			text.color = rgba (158, 158, 158, 1);
 			recordText.text = "BEST: " + record;
 			recordText.color = rgba(158, 158, 158,1);
 		}

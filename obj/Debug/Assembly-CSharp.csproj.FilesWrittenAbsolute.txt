@@ -16,3 +16,22 @@
 /Users/ms0202/Color Tap/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/ms0202/Color Tap/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/ms0202/Color Tap/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/guidotamborindeguy/Bicolour/obj/Debug/Assembly-CSharp.dll
+/Users/guidotamborindeguy/Bicolour/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEditor.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Mono.Cecil.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Unity.DataContract.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/guidotamborindeguy/Bicolour/Temp/bin/Debug/Mono.Cecil.Mdb.dll

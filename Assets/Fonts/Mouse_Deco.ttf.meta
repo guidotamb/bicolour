@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 465e08a0cae674a4381a4028c209d034
+timeCreated: 1493443282
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mouse Deco
+  fontNames:
+  - Mouse Deco
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f33e57f88637445f9d2c0fccb9c2ed8
+timeCreated: 1492902844
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: De La Fuente
+  fontNames:
+  - De La Fuente
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
